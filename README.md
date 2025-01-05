@@ -7,4 +7,4 @@ Physics without Mathematics
 create a Python code where 
 in python code
 
-## Warning unfinished works.
+## Warning: unfinished works.
