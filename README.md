@@ -10,7 +10,7 @@ in python code
 ## Warning: unfinished works.
 
 
-## Sex are genders = He, him, she, her, they, then, them, Ze/zir/zirs, Talyor, guys/gal, gf,bf, boy friend, female friend, it, 他，她，牠，w8, 它, 祂, 禢, TA,..., idk ?? [] 
+## Sex are genders = He, him, she, her, they, then, them, Ze/zir/zirs, Talyor, guys/gal, gf,bf, boy friend, female friend, it, 他，她，牠，w8, 它, 祂, 禢, TA,..., [and/or/unknown/idk] ?? [] 
 
 也
 
