@@ -12,7 +12,7 @@ in python code
 
 ## Sex are genders = He, him, she, her, they, then, them, Ze/zir/zirs, Talyor, guys/gal, gf,bf, boy friend, female friend, it, 他，她，牠，w8, 它, 祂, 禢, TA,..., [and/or/unknown/idk] ?? [] 
 
-也
+也; yet; yea? yeh? 
 
 In the United States, gender identity is recognized as a deeply personal and individual experience, extending beyond the traditional binary understanding of male and female. Numerous gender identities are acknowledged, reflecting the diverse ways individuals perceive and express themselves. Here are some of these identities:
 
