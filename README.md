@@ -9,12 +9,14 @@ in python code
 
 ## Warning: unfinished works.
 
-Stop words are words that are commonly used in English but are often removed from text because they carry little useful information. Some examples of stop words include: 
+[Conjecture/Lemma/proposition/Thereom?] Stop words are words that are commonly used in English but are often removed from text because they carry little useful information. Some examples of stop words include: 
 Articles: "a", "an", "the"
 Conjunctions: "and", "but", "or"
 Prepositions: "in", "on", "at", "with"
 Pronouns: "he", "she", "it", "they"
 Common verbs: "is", "am", "are", "was", "were", "be", "being", "been"
+
+[Proof]
 
 ## Sex are genders = He, him, she, her, they, then, them, Ze/zir/zirs, Talyor, guys/gal, gf,bf, boy friend, female friend, it, 他，她，牠，w8, 它, 祂, 禢, TA,..., [and/or/unknown/idk] ?? [] 
 
